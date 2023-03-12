@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=66FF66&animation=blink&color=000000&desc=YANG%20JIHYE&descAlignY=20&fontAlignY=60 )
 
-![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye1012&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye1012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
