@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **jihye1012/jihye1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=66FF66&animation=blink&color=000000&desc=YANG%20JIHYE&descAlignY=20&fontAlignY=60 )
+
+![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
